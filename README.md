@@ -1,4 +1,4 @@
-```markdown
+
 # Patch Processing API
 
 This API provides a collection of image patch processing functions designed to perform various transformations, augmentations, and enhancements for tasks in image processing, machine learning, and computer vision. Each function targets specific image characteristics such as texture, frequency, noise, or gradient properties, enabling users to apply advanced patch-based filtering, transformation, and augmentation techniques.
